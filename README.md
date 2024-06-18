@@ -1,4 +1,5 @@
-# Hotel-Booking-Data-Analysis
+# Hotel Stay Insights
+
 This is a data analysis conducted using 66,541 International hotel booking records from 2010 -2019, collected from Customers/Travellers from 7 South-East Asian countries (Cambodia, Indonesia, Malaysia, Philippines, Singapore, Thailand & Vietnam)
 
 ![travel-tourism-famous-world-landmarks-600nw-316967837](https://github.com/ineshapallage/Hotel-Booking-Data-Analysis/assets/161631865/fad6cfd7-779a-442e-80f7-371de3804c86)
